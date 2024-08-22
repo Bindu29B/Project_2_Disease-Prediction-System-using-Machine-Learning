@@ -1,0 +1,16 @@
+Project documents (Disease Prediction System using Machine Learning) 
+
+Github Repository link:
+https://github.com/Bindu29B/Disease-Prediction-System-using-Machine-Learning_project-2
+
+
+Requirements:
+numpy==1.26.3
+pickle-mixin==1.0.2
+scikit-learn==1.4.0
+streamlit==1.31.0
+streamlit-option-menu==0.3.12
+
+
+Streamlit commands:
+streamlit run "D:\NCET\NEXUS_INTERNSHIP\Project_2_Disease Prediction System using Machine Learning\main.py"
